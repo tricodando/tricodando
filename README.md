@@ -1,4 +1,4 @@
-- 👋 Olá, somos uma plataforma como o objetivo de disseminar assuntos de tecnologia.
+- 👋 Olá, somos uma plataforma com o objetivo de disseminar assuntos de tecnologia.
 - 👀 Temos interesse em programação, games, inovações, ideias criativas, enfim.
 - 🌱 Atualmente estamos aprendendo um pouco mais sobre a linguagem python, frameworks web, dentre outras ferramentas.
 - 📫 Como nos encontrar:
