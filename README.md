@@ -2,7 +2,7 @@
 - 👀 Temos interesse em programação, games, inovações, ideias criativas e tecnologias inteligentes.
 - 🌱 Atualmente estamos aprendendo um pouco mais sobre a linguagem python, frameworks web, dentre outras ferramentas.
 - 📫 Como nos encontrar:
-- Site -> https://www.tricodando.com
+<!-- - Site -> https://www.tricodando.com -->
 - Instagram -> https://www.instagram.com/tricodando
 - YouTube -> https://www.youtube.com/channel/UCEQBE4_0_3_pzQoMEZFR0Bg
 
