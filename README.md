@@ -4,7 +4,7 @@
 - 📫 Como nos encontrar:
 <!-- - Site -> https://www.tricodando.com -->
 - Instagram -> https://www.instagram.com/tricodando
-- YouTube -> https://www.youtube.com/channel/UCEQBE4_0_3_pzQoMEZFR0Bg
+- YouTube -> https://www.youtube.com/@tricodando
 - Creator:Instagram -> https://www.instagram.com/reuelcaetano
 
 <!---
